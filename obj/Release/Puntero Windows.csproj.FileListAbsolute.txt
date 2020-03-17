@@ -1,0 +1,14 @@
+G:\Sergio\Puntero Remoto\Puntero Windows\bin\Release\Puntero Windows.exe
+G:\Sergio\Puntero Remoto\Puntero Windows\bin\Release\Puntero Windows.pdb
+G:\Sergio\Puntero Remoto\Puntero Windows\bin\Release\Newtonsoft.Json.dll
+G:\Sergio\Puntero Remoto\Puntero Windows\bin\Release\Newtonsoft.Json.xml
+G:\Sergio\Puntero Remoto\Puntero Windows\obj\Release\Puntero Windows.csprojAssemblyReference.cache
+G:\Sergio\Puntero Remoto\Puntero Windows\obj\Release\Puntero_Windows.Form1.resources
+G:\Sergio\Puntero Remoto\Puntero Windows\obj\Release\Puntero_Windows.Properties.Resources.resources
+G:\Sergio\Puntero Remoto\Puntero Windows\obj\Release\Puntero Windows.csproj.GenerateResource.cache
+G:\Sergio\Puntero Remoto\Puntero Windows\obj\Release\Puntero Windows.csproj.CopyComplete
+G:\Sergio\Puntero Remoto\Puntero Windows\obj\Release\Puntero Windows.exe
+G:\Sergio\Puntero Remoto\Puntero Windows\obj\Release\Puntero Windows.pdb
+G:\Sergio\Puntero Remoto\Puntero Windows\bin\Release\WindowsInput.dll
+G:\Sergio\Puntero Remoto\Puntero Windows\bin\Release\WindowsInput.pdb
+G:\Sergio\Puntero Remoto\Puntero Windows\bin\Release\WindowsInput.xml

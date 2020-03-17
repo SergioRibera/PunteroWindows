@@ -1,0 +1,19 @@
+G:\Sergio\Puntero Remoto\Puntero Windows\obj\Debug\Puntero Windows.csprojAssemblyReference.cache
+G:\Sergio\Puntero Remoto\Puntero Windows\obj\Debug\Puntero_Windows.Form1.resources
+G:\Sergio\Puntero Remoto\Puntero Windows\obj\Debug\Puntero_Windows.Properties.Resources.resources
+G:\Sergio\Puntero Remoto\Puntero Windows\obj\Debug\Puntero Windows.csproj.GenerateResource.cache
+G:\Sergio\Puntero Remoto\Puntero Windows\bin\Debug\Puntero Windows.exe
+G:\Sergio\Puntero Remoto\Puntero Windows\bin\Debug\Puntero Windows.pdb
+G:\Sergio\Puntero Remoto\Puntero Windows\bin\Debug\Newtonsoft.Json.dll
+G:\Sergio\Puntero Remoto\Puntero Windows\bin\Debug\Newtonsoft.Json.xml
+G:\Sergio\Puntero Remoto\Puntero Windows\obj\Debug\Puntero Windows.csproj.CopyComplete
+G:\Sergio\Puntero Remoto\Puntero Windows\obj\Debug\Puntero Windows.exe
+G:\Sergio\Puntero Remoto\Puntero Windows\obj\Debug\Puntero Windows.pdb
+G:\Sergio\Puntero Remoto\Puntero Windows\bin\Debug\WindowsInput.dll
+G:\Sergio\Puntero Remoto\Puntero Windows\bin\Debug\WindowsInput.pdb
+G:\Sergio\Puntero Remoto\Puntero Windows\bin\Debug\WindowsInput.xml
+G:\Sergio\Puntero Remoto\Puntero Windows\bin\Debug\Puntero Windows.exe.manifest
+G:\Sergio\Puntero Remoto\Puntero Windows\bin\Debug\Puntero Windows.application
+G:\Sergio\Puntero Remoto\Puntero Windows\obj\Debug\Puntero Windows.TrustInfo.xml
+G:\Sergio\Puntero Remoto\Puntero Windows\obj\Debug\Puntero Windows.exe.manifest
+G:\Sergio\Puntero Remoto\Puntero Windows\obj\Debug\Puntero Windows.application
